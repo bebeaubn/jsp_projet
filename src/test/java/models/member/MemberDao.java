@@ -25,7 +25,7 @@ public class MemberDao {
 
     }
 
-    public static void clearDate() {
+    public static void clearData() {
         members = new HashMap<>();
     }
 
